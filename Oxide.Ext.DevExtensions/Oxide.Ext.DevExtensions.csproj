@@ -10,6 +10,12 @@
     <Reference Include="Assembly-CSharp">
       <HintPath>D:\RustServer\rust_server\RustDedicated_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>D:\RustServer\rust_server\RustDedicated_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>D:\RustServer\rust_server\RustDedicated_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
